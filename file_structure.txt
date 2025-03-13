@@ -1,0 +1,23 @@
+house-price-prediction
+│
+├── main.py
+├── requirements.txt
+│
+├── api
+│   └── app.py
+│
+├── data
+│   └── california_housing.csv
+│
+├── models
+│   └── preprocessor.pkl
+│
+├── notebooks
+│   └── eda.ipynb
+│
+├── src
+│   ├── data_collection.py
+│   ├── model_training.py
+│   └── preprocessing.py
+│
+└── tests

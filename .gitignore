@@ -1,0 +1,90 @@
+# Virtual Environment
+venv/
+*.env
+.venv/
+env/
+.env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Model files (optional - you might want to track these)
+# models/*.pkl
+
+# Data files (optional - you might want to track these)
+# data/*.csv
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Pytest
+.pytest_cache/
+
+# Mypy
+.mypy_cache/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Reports and plots
+reports/
+*.png
+*.jpg
+
+# Python environment & compiled files
+venv/
+__pycache__/
+*.py[cod]
+
+# Virtual environment, configuration, and log files
+*.env
+*.log
+
+# Distribution/packaging
+build/
+dist/
+*.egg-info/
+
+# Data and model files (if you choose not to track them)
+data/california_housing.csv
+models/*.pkl
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoint
+.ipynb_checkpoints/
+
+# Reports
+reports/
